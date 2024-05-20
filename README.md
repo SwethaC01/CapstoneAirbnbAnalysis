@@ -2,6 +2,8 @@
 
 ## Airbnb Data Visualization
 
+![Airbnb Dashboard](assets/dashboard.png)
+
 ## 🎨Technologies Used:
 
   * Json
@@ -15,7 +17,7 @@
 
 ## Features:
 
-* ***📂Json files***: Use the json files..
+* ***📂JSON Files***: Utilize JSON files for data input.
 * ***✂️Data Filtering:*** Python scripting is utilized to filter and preprocess the raw transaction data, ensuring its suitability for visualization.
 * ***🗃️Database Management:*** The project facilitates the creation of a database schema and the insertion of transaction data into MySQL tables.
 * ***🌐Geo Visualization:*** Utilizing Plotly, the project enables geographic visualization of transaction data, allowing users to analyze regional transaction trends.
@@ -32,3 +34,6 @@ import plotly_express as px
 import plotly.graph_objects as go
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
+
+
+
