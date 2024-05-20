@@ -2,7 +2,7 @@
 
 ## Airbnb Data Visualization
 
-![Airbnb Dashboard](assets/dashboard.png)
+![Airbnb Dashboard]("D:\Swetha Documents\Python_Code\THIRD_PROJ_AIRBNB\git.gif")
 
 ## 🎨Technologies Used:
 
