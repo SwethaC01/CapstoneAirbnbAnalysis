@@ -1,9 +1,8 @@
 # CapstoneAirbnbAnalysis
 
-## Airbnb Data Visualization
+## Airbnb Analysis
 
 ![](https://github.com/SwethaC01/CapstoneAirbnbAnalysis/blob/main/image.gif)
-
 
 ## 🎨Technologies Used:
 
