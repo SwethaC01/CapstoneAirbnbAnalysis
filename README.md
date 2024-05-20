@@ -2,8 +2,6 @@
 
 ## Airbnb Data Visualization
 
-!(https://github.com/SwethaC01/CapstoneAirbnbAnalysis/blob/main/air.gif)
-
 ## 🎨Technologies Used:
 
   * Json
