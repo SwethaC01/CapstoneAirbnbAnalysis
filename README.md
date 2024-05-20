@@ -1,4 +1,4 @@
-# CapstoneAirbnbAnalysis
+# Capstone Project
 
 ## Airbnb Analysis
 
