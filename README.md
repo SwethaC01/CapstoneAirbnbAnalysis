@@ -2,7 +2,6 @@
 
 ## Airbnb Data Visualization
 
-"D:\Swetha Documents\Python_Code\THIRD_PROJ_AIRBNB\git.gif"
 ## 🎨Technologies Used:
 
   * Json
