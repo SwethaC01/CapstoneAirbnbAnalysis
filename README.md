@@ -2,7 +2,7 @@
 
 ## Airbnb Data Visualization
 
-![Airbnb Dashboard](D:\Swetha Documents\Python_Code\THIRD_PROJ_AIRBNB\git.gif)
+![Airbnb Dashboard]((https://github.com/SwethaC01/CapstoneAirbnbAnalysis/blob/main/air.gif))
 
 ## 🎨Technologies Used:
 
@@ -34,6 +34,3 @@ import plotly_express as px
 import plotly.graph_objects as go
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
-
-
-
