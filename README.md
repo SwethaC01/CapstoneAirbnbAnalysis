@@ -4,7 +4,7 @@
 
 ![](https://github.com/SwethaC01/CapstoneAirbnbAnalysis/blob/main/image.gif)
 
-## 🎨Technologies Used:
+## 🎨Technologies Used
 
   * Json
   * Python
@@ -15,7 +15,7 @@
   * WordCloud
   * Matplotlib
 
-## Features:
+## Features
 
 * **📂JSON Files**: Utilize JSON files for data input.
 * **✂️Data Filtering:** Python scripting is utilized to filter and preprocess the raw transaction data, ensuring its suitability for visualization.
